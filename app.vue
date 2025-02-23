@@ -16,8 +16,8 @@
       // Anonymous analytics
       {
         defer: true,
-        src: 'https://umami.ataw.top/script.js',
-        'data-website-id': '9f925777-1c4c-440d-94ae-4bfee9e7aa71',
+        src: 'https://track.pixmiller.com/script.js',
+        'data-website-id': '8b7ae8a3-6275-42fa-8787-e16c5417b003',
       },
     ],
   })
